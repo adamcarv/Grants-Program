@@ -8,37 +8,36 @@
 
 ## Project Overview :page_facing_up:
 
-To bolster Polkadot’s current standing as the blockchain network with the lowest carbon footprint, an internal effort
-has commenced to coordinate capital and resources to extend the Network’s leadership in crypt-climate activity. This
+To bolster Polkadot’s current standing as the blockchain network with the lowest carbon footprint, an internal effort 
+has been initiated to coordinate capital and resources to extend the network’s leadership in crypt-climate activity. The following
 proposal pairs with the recently approved Sequester proposal for a pallet to drive parachain treasury funds to carbon
 offset purchases. An integral functional component that must first be resolved is determining the scope, methodology,
 measurement parameters, and reporting standard of the electricity consumption and approximate emissions by each
-participating parachain. Bitgreen will design this procedure alongside a qualified partner:
+participating parachain. Bitgreen will design this procedure alongside a qualified partner to:
 
-1. Operationalizing the methodology for programmatic execution
-2. Delivering a dynamic audit dashboard providing ongoing analysis and reporting of the Polkadot ecosystem’s overall
+1. Operationalize the methodology for programmatic execution
+2. Deliver a dynamic audit dashboard providing ongoing analysis and reporting of the Polkadot ecosystem’s overall
    carbon emission
 3. Facilitate the purchase of high quality carbon credits and renewable energy credits
 
-The assessments will be rooted in on-chain and off-chain best auditing practices, alongside interviews with parachain
-stakeholders and a custom carbon accounting framework
+The assessments will be rooted in on-chain and off-chain best practices for emissions auditing, alongside interviews with parachain
+stakeholders and a custom carbon accounting framework.
 
 ## Introduction
 
 Emissions of anthropogenic greenhouse gasses (GHG) that drive climate change and its impacts around the world are
 growing. As a result, the need to accelerate efforts to reduce anthropogenic GHG emissions is increasingly urgent. As
-concerns over climate change grow, investors, consumers, the
-regulators ([SEC, March 2022](https://www.sec.gov/news/press-release/2022-46)) and other stakeholders are increasingly
-calling for and requiring climate-related disclosures. Research models calculate that humanity must remove approximately
-22 gigatons of CO2 equivalent (CO2e) from the atmosphere by the year 2030, and annually every year thereafter, to avert
-this scenario. Since global GHG emissions in 2021 topped 36 billion tons of CO2e, we require a round-trip swing of 58
-gigatons within 8-10 years. It is quite a herculean task.
+concerns over climate change grow, investors, consumers, regulators (see [SEC, March 2022](https://www.sec.gov/news/press-release/2022-46)) and other stakeholders are increasingly calling for and requiring climate-related disclosures. Research models calculate that 
+humanity must remove approximately 22 gigatons of CO2 equivalent (CO2e) from the atmosphere by the year 2030, and annually 
+every year thereafter. Since global GHG emissions in 2021 topped 36 billion tons of CO2e, we 
+can fairly assume that regulatory scrutiny, mandatory compliance, and consumer discrimination will all intensify in the coming years,
+and result in new competitive advantages and disadvantages for companies entrenched in their environmental sustainability.
 
-Blockchains, their decentralized applications and communities are not immune from this call to action and standard of
-transparency. Surging demand for cryptocurrencies and the contentious debate over Proof of Work vs. Proof of Stake has
+Blockchains, their decentralized applications and communities are not immune from this standard of
+transparency and exposure to reporting. Surging demand for cryptocurrencies and the contentious debate over Proof of Work vs. Proof of Stake has
 highlighted the flashpoint issue of blockchain’s growing energy consumption. Therefore it is not surprising to see
 several Layer 1 blockchains make net zero commitments (Polygon, Near, Celo, Ripple) or the emergence of initiatives
-aiming to set new standards to guide the crypto community towards decarbonization.
+aiming to set new standards to guide the crypto community towards decarbonization. 
 
 ## Existing Methodologies
 
@@ -56,9 +55,9 @@ assumptions.
 Carbon-neutral means purchasing carbon credits equivalent to emissions released, without the need for emissions
 reductions to have taken place. Net-zero means reducing emissions in line with latest climate science, and balancing
 remaining residual emissions through carbon removal credits. Net-zero carbon is linked to the Paris Agreement, which
-aims to limit the rise in global temperatures below 1.5°C. — a goal that requires more ambition and serious strategy.
-Ideally, carbon neutrality sits within a robust carbon management strategy. While the two concepts are similar, the
-mainstream view is that Net Zero Carbon is more ambitious than just being Carbon Neutral.
+aims to limit the rise in global temperatures below 1.5°C. — a goal that requires more ambition and serious strategy
+(and many believe is already out of reach). Ideally, carbon neutrality sits within a robust carbon management strategy. 
+While the two concepts are similar, the mainstream view is that Net Zero Carbon is more ambitious than just being Carbon Neutral.
 
 The goal of Net Zero Carbon is to eliminate emissions as much as possible, before using other tactics such as carbon
 removal or offsetting. For the Polkadot network, that means investing in energy efficiency, purchasing renewable
@@ -73,15 +72,15 @@ tackle the emissions at source and might not be the most effective strategy to t
 Blockchain technology doesn’t have to mean environmentally unfriendly. To the contrary, with thoughtful design and
 policy choices, it’s possible to merge the effectiveness of immutable, decentralized systems with environmental
 responsibility and then channel treasury resources to proactive climate positive initiatives. Bitgreen aims to develop a
-cost-effective, relevant, and complete way to estimate the GHG emissions of the Polkadot network. At the same time, we
+cost-effective, relevant and complete way to estimate the GHG emissions of the Polkadot network. At the same time, we
 aspire for the methodology to become open source to set a new measurement bar for the industry.
 
-Beginning with the end in mind, the final deliverable for this grant proposal is a dynamic dashboard that reveals
-periodic reporting for electricity consumption and emissions per participating parachain, along with the Polkadot and
+Beginning with the end objective in mind, the final deliverable for this grant proposal is a dynamic dashboard that reveals
+periodic reporting of electricity consumption and emissions per participating parachain and the Polkadot and
 Kusama relay chains. Some of these parameters are still TBD as we do not yet know precisely what information is
 available and the quality or existence of necessary APIs. Upstream from the dashboard will be a database for calculating
 the carbon footprint of the validators, collators, and infrastructure units, which together comprise the hardware and
-shared computing elements of the Dotsama networks
+shared computing elements of the Dotsama networks.
 
 ### Team members
 
